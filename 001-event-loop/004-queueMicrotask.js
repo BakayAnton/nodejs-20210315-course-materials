@@ -16,6 +16,6 @@ console.log('console.log-2'); // 2
 
 /**
  *  stack: []
- *  micro: []
- *  timer: []
+ *  micro: [] //queueMicrotask, Promise
+ *  timer: [] // setTimeout
  */

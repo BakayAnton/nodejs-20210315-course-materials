@@ -16,6 +16,6 @@ setTimeout(() => {
 
 /**
  *  stack: []
- *  micro: []
- *  timer: []
+ *  micro: [] //queueMicrotask, Promise
+ *  timer: [] // setTimeout
  */
